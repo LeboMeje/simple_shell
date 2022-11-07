@@ -3,9 +3,10 @@
 
 
 
-Project was completed using C language
-Shell
-Betty linter
+Project was completed using 
+* C language
+* Shell
+* Betty linter
 
 ## General Requirement for project
 All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -169,7 +170,7 @@ $ echo "echo 'all good' && echo 'hello'" | ./hsh
 
 || - OR logical operator command1 || command2: command2 is executed if, and only if, command1 returns a non-zero exit status.
 
-Example:
+###### Example:
 
 $ echo "error! || echo 'but still runs'" | ./hsh
 ./hsh: 1: error!: not found
@@ -267,4 +268,4 @@ Pair programming and team work
 Building a test suite to check our own code
 
 ## Authors
-Lebo Meje & Mayowa Olawumi
+@Lebo Meje & @Mayowa Olawumi
