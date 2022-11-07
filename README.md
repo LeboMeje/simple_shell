@@ -268,4 +268,4 @@ Pair programming and team work
 Building a test suite to check our own code
 
 ## Authors
-@ Lebo Meje & @ Mayowa Olawumi
+###### Lebo Meje & Mayowa Olawumi
